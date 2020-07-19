@@ -1,0 +1,1 @@
+web: gunicorn PredictDiabetes_RESTAPI.wsgi --log-file -
